@@ -11,17 +11,7 @@
     border-radius: 50px;
     
 }
-@media (max-width:680px){
-    body{
-        background-color: black;
-    }
-    .container-3{
-        
-        background: none;
-    }
-  
 
-}
 .navbar{
    height: auto;
    width: 100%;
@@ -160,4 +150,31 @@ footer{
    
     text-align: center;
    
+}
+
+
+
+
+@media (max-width:680px){
+    body{
+        background-color: black;
+    }
+    .container-3{   
+        background: none;
+        
+        border-bottom: 2px solid rgb(147, 135, 135);
+        margin-top: 10px;
+        
+    }
+    .images-nav{
+       height: 70px;
+       width: 70px;
+    }
+    footer{
+        color: #fffdfd;
+    }
+   
+   
+  
+
 }
