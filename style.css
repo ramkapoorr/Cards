@@ -162,18 +162,23 @@ footer{
     .container-3{   
         background: none;
         
-        border-bottom: 2px solid rgb(147, 135, 135);
+        border-bottom: 2px solid rgb(114, 111, 116);
         margin-top: 10px;
+        
         
     }
     .images-nav{
        height: 70px;
        width: 70px;
+       padding-top: 30px;
     }
     footer{
         color: #fffdfd;
     }
-   
+    a{
+        font-size: 18px;
+    }
+    
    
   
 
